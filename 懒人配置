@@ -3,7 +3,7 @@ dns_servers:
 - 119.29.29.29
 policy_groups:
 - external:
-    name: 所有订阅
+    name: 订阅
     type: select
     hidden: false
 - select:
