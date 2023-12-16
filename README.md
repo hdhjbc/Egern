@@ -12,4 +12,4 @@ https://raw.githubusercontent.com/hdhjbc/Egern/blame/main/egern.yaml
 
 我不生产水，我是大自然的搬运工
 懒人配置是各设置，分流，模块等的集合。分流,模块来自于互联网各大佬
-@RuCu6 @VirgilClyne @blackmatrix7 @DivineEngine @Maasea @key @app2smile @Peng-YM @NobyDa @Semporia@
+@RuCu6 @VirgilClyne @blackmatrix7 @DivineEngine @Maasea @key @app2smile @Peng-YM @NobyDa @Semporia
