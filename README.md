@@ -9,6 +9,7 @@ https://raw.githubusercontent.com/hdhjbc/Egern/blame/main/egern.yaml
 ![image](https://github.com/hdhjbc/Egern/assets/112400226/fc534efe-3341-4018-9046-24731bbe032c)
 
 导入订阅后还记得去工具-证书里生成新证书，然后去设置里安装并信任，不然模块无法生效
+
 这个懒人配置我的分流并没有很细，不一定适合你，你可以按需求自己添加。分流可以去爬虫佬仓库找 https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge
 
 我不生产水，我是大自然的搬运工
